@@ -19,11 +19,11 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .btn-primary { background-color: #3e5994; border-color: #1c8784; }
 .btn-primary:hover { background-color: #1c8784;  border-color: #1c8784; }
 
-.icon1 { display: inline-block; background: url(images/twitter.png) no-repeat; height: 32px; width: 32px; }
+.icon1 { display: inline-block; background: url(images/twitter.png) no-repeat; height: 48px; width: 48px; }
 .icon1.icon-twitter { background-position: 0px 0px; }
-.icon2 { display: inline-block; background: url(linkedin.png) no-repeat; height: 32px; width: 32px; }
+.icon2 { display: inline-block; background: url(linkedin.png) no-repeat; height: 48px; width: 48px; }
 .icon2.icon-linkedin { background-position: 0px 0px; }
-.icon3 { display: inline-block; background: url(../images/mail.png) no-repeat; height: 32px; width: 32px; }
+.icon3 { display: inline-block; background: url(../images/mail.png) no-repeat; height: 48px; width: 48px; }
 .icon3.icon-email { background-position: 0px 0px; }
 
 
