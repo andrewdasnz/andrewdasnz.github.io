@@ -57,8 +57,8 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 }*/
 .jumbotron .overlay { background-color: #02569c; position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; opacity: 0.05; filter:alpha(opacity=5); z-index: 2; }
 
-.jumbotron .container { position: relative; top: 28%; z-index: 4; text-align: left; }
-.jumbotron .container > * { text-align: left; color: #FFFFFF; }
+.jumbotron .container { position: relative; top: 28%; z-index: 4; text-align: right; }
+.jumbotron .container > * { text-align: right; color: #000000; }
 .jumbotron .container h1 { padding-bottom: 20px; border-bottom: 1px solid #FFFFFF; border-bottom-color: rgba(255,255,255,0.35); display: inline-block; }
 .jumbotron .container .lead { font-size: 28px; }
 .jumbotron .scroll-down { height: 80px; width: 110px; display: block; position: absolute; bottom: 0px; right: 5%; background-color: #02569c; text-align: center; z-index: 6; }
